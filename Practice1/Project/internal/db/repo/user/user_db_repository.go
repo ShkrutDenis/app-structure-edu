@@ -1,0 +1,3 @@
+package user
+
+// File that contains any DB queries related to the post model
