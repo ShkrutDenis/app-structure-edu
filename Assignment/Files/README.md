@@ -1,7 +1,3 @@
-# Description of this project
+# Overview
 
-What you need to do:
-- create a structure based on the listed files
-- create needed folders
-- put files into the correct folder
-- rename file if need
+Awesome project that you have never seen before
